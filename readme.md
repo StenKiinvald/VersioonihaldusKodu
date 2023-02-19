@@ -1,2 +1,2 @@
--Nädal1-
-Päev5,Päev6,
+-Nädal-
+Päev1,
